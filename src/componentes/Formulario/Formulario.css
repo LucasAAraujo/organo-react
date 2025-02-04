@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: center;
     margin: 80px 0;
+    text-align: start;
 }
 
 .formulario form{
